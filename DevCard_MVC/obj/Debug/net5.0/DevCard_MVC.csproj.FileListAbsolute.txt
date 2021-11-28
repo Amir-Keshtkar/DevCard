@@ -24,7 +24,6 @@ C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.Tag
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.TagHelpers.output.cache
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.RazorCoreGenerate.cache
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
