@@ -37,3 +37,4 @@ C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\ref\DevCard_MVC
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.pdb
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.genruntimeconfig.cache
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.csproj.CopyComplete
+C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
