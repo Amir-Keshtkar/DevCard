@@ -40,3 +40,5 @@ C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.csp
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\Amiri\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
