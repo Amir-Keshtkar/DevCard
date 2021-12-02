@@ -6,8 +6,10 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text.RegularExpressions;
+using DevCard_MVC.Data;
 
 namespace DevCard_MVC.Controllers {
+    //[Route("/inventory/products")]
     public class HomeController: Controller {
         private readonly List<Service> _services = new List<Service> {
             new Service(1, "نقره ای"),
@@ -15,12 +17,18 @@ namespace DevCard_MVC.Controllers {
             new Service(3, "پلاتین"),
             new Service(4, "الماس"),
         };
+        //[Route("Index/{name:int}/{model}")]
         public IActionResult Index() {
             return View();
         }
 
-        [HttpGet]
-        public IActionResult Contact() {
+        public IActionResult ProjectDetails(long id){
+            var project = ProjectStore.GetProjectBy(id);
+            return View(project);
+        }
+
+        //[HttpGet("contactPage")]
+        public IActionResult Contact(int id) {
             var model = new Contact {
                 Services = new SelectList(_services, "Id", "Name")
             };
