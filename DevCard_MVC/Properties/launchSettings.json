@@ -20,9 +20,11 @@
       "dotnetRunMessages": "true",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+        "environmentVariables": {
+            //"ASPNETCORE_ENVIRONMENT": "Staging"
+            //"ASPNETCORE_ENVIRONMENT": "Production"
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        }
     }
   }
 }

@@ -1,0 +1,19 @@
+
+[*]
+
+# Microsoft .NET properties
+csharp_indent_braces = false
+csharp_new_line_before_open_brace = none
+
+# ReSharper properties
+resharper_csharp_insert_final_newline = true
+resharper_indent_nested_foreach_stmt = true
+resharper_indent_nested_for_stmt = true
+resharper_indent_nested_while_stmt = true
+resharper_indent_preprocessor_if = usual_indent
+resharper_invocable_declaration_braces = end_of_line_no_space
+resharper_keep_existing_attribute_arrangement = true
+resharper_keep_existing_declaration_parens_arrangement = false
+resharper_keep_existing_linebreaks = false
+resharper_use_continuous_indent_inside_parens = false
+resharper_wrap_before_eq = true
